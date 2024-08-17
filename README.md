@@ -226,7 +226,7 @@ The above command will pull the latest tagged release from the dockerhub reposit
 
 If you want to build the container yourself manually, git clone the repo, then build and run the following commands
 
-- Clone the repo using `git clone https://github.com/projectdiscovery/subfinder.git`
+- Clone the repo using `git clone https://github.com/atasky/subfinder.git`
 - Build your docker container
 ```sh
 docker build -t projectdiscovery/subfinder .
